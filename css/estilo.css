@@ -1,0 +1,37 @@
+body{
+    margin-top: 2%;
+    font: 50px Arial,Helvetica,sans-serif;
+    font-size: 80px;
+}
+table{
+    background-color: #ff5e00;
+    border-radius: 10px;
+    padding: 14px;
+}
+.boton1{
+    font-size: 30px;
+    margin: center;
+    margin-left: 10px;
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border: 5px solid #000000;
+    border: 5px solid #000000;
+    cursor: pointer;
+}
+input{
+    margin-top: 5%;
+    width: 400px;
+    height: 80px;
+    border: 5px solid rgb(202, 195, 132);
+    border: 3px solid #000000;
+    
+    border-radius: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+button{
+    padding: 10px;
+}
+
